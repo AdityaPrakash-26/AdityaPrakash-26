@@ -9,7 +9,7 @@ My skills include:
 - Competitive Programming
 - Data Structures and Algorithms
 - Game Programming
-- Full-stack Web Development\
+- Full-stack Web Development
 
 I'm currently working on: Speech Recognition Android Maps Application
 
