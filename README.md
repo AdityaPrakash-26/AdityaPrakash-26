@@ -21,6 +21,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-important?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-success?style=flat-square&logo=Express&logoColor=white)
 
 
 ## Projects:
