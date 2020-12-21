@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Aditya Prakash, and I am an C++ developer.
+I am Aditya Prakash, and I am a C++ developer.
 
 ##
 
