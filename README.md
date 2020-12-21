@@ -7,6 +7,7 @@ I am Aditya Prakash, and I am a C++ developer.
 My skills include:
 - Android
 - Competitive Programming
+- Data Structures and Algorithms
 - Game Programming
 - Full-stack Web Development\
 
