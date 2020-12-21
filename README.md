@@ -12,12 +12,18 @@ My skills include:
 
 I'm currently working on: Speech Recognition Android Maps Application
 
+Additionally, I am also an active competitive programmer, who regularly participates in competitions on CodeChef(Rated: 1723) and Hackerrank (6 stars in C++).
+
 <br>
 
 ## Education:
 
-- Currently pursing a Bachelor of Engineering in Computer Engineering from Institute of Engineering and Technology, Indore.
+- Currently pursing Bachelor of Engineering in Computer Engineering from Institute of Engineering and Technology, Indore.
 - Completed Senior Secondary School from The Shishukunj Internation School, Indore.
+
+## Projects:
+- [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
+- [Dice Simulator on Android](https://github.com/AdityaPrakash-26/DiceApp)
 
 
 <!--
