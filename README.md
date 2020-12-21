@@ -16,10 +16,12 @@ Additionally, I am also an active competitive programmer, who regularly particip
 
 <br>
 
-## Education:
-
-- Currently pursing Bachelor of Engineering in Computer Engineering from Institute of Engineering and Technology, Indore.
-- Completed Senior Secondary School from The Shishukunj Internation School, Indore.
+## Languages and Frameworks:
+- C/C++
+- Java
+- Python
+- Express
+- STL
 
 ## Projects:
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
