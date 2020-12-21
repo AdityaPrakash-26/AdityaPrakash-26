@@ -8,8 +8,9 @@ My skills include:
 - Android
 - Competitive Programming
 - Game Programming
-- Full-stack Web Development
-- I'm currently working on: Speech Recognition Android Maps Application
+- Full-stack Web Development\
+
+I'm currently working on: Speech Recognition Android Maps Application
 
 <br>
 
