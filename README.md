@@ -13,7 +13,7 @@ My skills include:
 
 I'm currently working on: Speech Recognition Android Maps Application
 
-Additionally, I am also an active competitive programmer, who regularly participates in competitions on CodeChef(Rated: 1723) and Hackerrank (6 stars in C++).
+Additionally, I am also an active competitive programmer, who regularly participates in competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++).
 
 ## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
