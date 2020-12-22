@@ -28,7 +28,6 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![IntelliJ]
 ![Unreal](https://img.shields.io/badge/Unreal-181717?style=flat-square&logo=Unreal-Engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white)
 
