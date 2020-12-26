@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Aditya Prakash, and I am a C++ developer.
+I am Aditya Prakash, and I am a C++ developer. I am currently pursuing Computer Engineering from Institute of Engineering and Technology, Indore. I am presently in my third semester.
 
 ##
 
@@ -37,19 +37,3 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ##
 
 You can reach me on my mail: prakashadityaap@gmail.com
-
-
-<!--
-**AdityaPrakash-26/AdityaPrakash-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
