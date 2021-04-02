@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Aditya Prakash, and I am a student developer. I am currently pursuing Computer Engineering from Institute of Engineering and Technology, Indore. I am presently in my fourth semester.
+I am Aditya Prakash, and I am a student developer. I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore.
 
 ## About Me:
 - A quick leaner, with strong creative and analytical skills.
