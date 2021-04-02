@@ -8,9 +8,7 @@ I am Aditya Prakash, and I am a student developer. I am currently pursuing Compu
 - Good collaborator and outstanding team-player, comfortable working in a fast-moving, culturally diverse and globally distributed team environment.
 - Aspiring to solve real-world challenges using technology
 
-##
-
-My skills include:
+## My skills include:
 - Data Structures and Algorithms
 - Competitive Programming
 - Android Development
