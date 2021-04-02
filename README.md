@@ -46,4 +46,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ##
 
 You can reach me on my mail: prakashadityaap@gmail.com
-I am also on [Stack Overflow](https://stackoverflow.com/users/12034477/aditya-prakash)
+
+I am also on: 
+- [Stack Overflow](https://stackoverflow.com/users/12034477/aditya-prakash)
+- [LinkedIn](https://www.linkedin.com/in/aditya-prakash-83835a188/)
