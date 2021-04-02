@@ -27,6 +27,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Express](https://img.shields.io/badge/-Express-success?style=flat-square&logo=Express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-fffff?style=flat-square&logo=Node.js&logoColor=fffff)
 ![JavaScript](https://img.shields.io/badge/Javascript-ffcb2c?style=flat-square&logo=Javascript&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-23f22f?style=flat-square&logo=OpenCV&logoColor=white)
 
 ## Platforms and Tools:
 
