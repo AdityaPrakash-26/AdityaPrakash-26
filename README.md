@@ -25,6 +25,8 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Java](https://img.shields.io/badge/-Java-important?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-success?style=flat-square&logo=Express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-fffff?style=flat-square&logo=Node.js&logoColor=fffff)
+![JavaScript](https://img.shields.io/badge/Javascript-ffcb2c?style=flat-square&logo=Javascript&logoColor=white)
 
 ## Platforms and Tools:
 
@@ -34,6 +36,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal-181717?style=flat-square&logo=Unreal-Engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ## Projects:
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
