@@ -1,19 +1,25 @@
 ### Hello there 👋
 
-I am Aditya Prakash, and I am a C++ developer. I am currently pursuing Computer Engineering from Institute of Engineering and Technology, Indore. I am presently in my third semester.
+I am Aditya Prakash, and I am a student developer. I am currently pursuing Computer Engineering from Institute of Engineering and Technology, Indore. I am presently in my fourth semester.
+
+## About Me:
+- A quick leaner, with strong creative and analytical skills.
+- Equipped with a diverse and promising skill-set.
+- Good collaborator and outstanding team-player, comfortable working in a fast-moving, culturally diverse and globally distributed team environment.
+- Aspiring to solve real-world challenges using technology
 
 ##
 
 My skills include:
-- Android
-- Competitive Programming
 - Data Structures and Algorithms
+- Competitive Programming
+- Android Development
 - Game Programming
 - Full-stack Web Development
 
-I'm currently working on: Speech Recognition Android Maps Application
+I'm currently working on: Traffic Sign Detection
 
-Additionally, I am also an active competitive programmer, who regularly participates in competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++).
+Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++). 
 
 ## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
@@ -38,3 +44,4 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ##
 
 You can reach me on my mail: prakashadityaap@gmail.com
+I am also on [Stack Overflow](https://stackoverflow.com/users/12034477/aditya-prakash)
