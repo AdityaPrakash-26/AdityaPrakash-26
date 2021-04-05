@@ -3,10 +3,10 @@
 I am Aditya Prakash, and I am a student developer. I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore.
 
 ## About Me:
-- A quick leaner, with strong creative and analytical skills.
+- A quick learner, with strong creative and analytical skills.
 - Equipped with a diverse and promising skill-set.
-- Good collaborator and outstanding team-player, comfortable working in a fast-moving, culturally diverse and globally distributed team environment.
-- Aspiring to solve real-world challenges using technology
+- Good collaborator and outstanding team player, comfortable working in a fast-moving, culturally diverse, and globally distributed team environment.
+- Aspiring to solve real-world challenges using technology 
 
 ## My skills include:
 - Data Structures and Algorithms
