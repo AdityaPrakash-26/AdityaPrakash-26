@@ -41,7 +41,6 @@ Additionally, I am also an active competitive programmer, who regularly particip
 
 ## Projects:
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
-- [Dice Simulator on Android](https://github.com/AdityaPrakash-26/DiceApp)
 - [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject)
 ##
 
