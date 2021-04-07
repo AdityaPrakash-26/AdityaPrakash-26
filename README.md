@@ -40,8 +40,9 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
 ## Projects:
-- [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
 - [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject)
+- [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
+- [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)
 ##
 
 You can reach me on my mail: prakashadityaap@gmail.com
