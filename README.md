@@ -15,7 +15,7 @@ I am Aditya Prakash, and I am a student developer. I am currently pursuing the f
 - Game Programming
 - Full-stack Web Development
 
-I'm currently working on: Traffic Sign Detection
+I'm currently working on: Traffic Sign Detection and LeetCode Solutions
 
 Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++). 
 
