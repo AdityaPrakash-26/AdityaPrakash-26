@@ -12,10 +12,14 @@
   <a href="https://stackoverflow.com/users/12034477/aditya-prakash/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
+  <a href="https://adityaprakash.tech">
+    <img src="https://img.shields.io/badge/Website-00BB00?style=for-the-badge" />
+  </a>
   <br>
   <br>
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" width="294">
 </a>
 </p>
 
@@ -70,7 +74,3 @@ Additionally, I am also an active competitive programmer, who regularly particip
 
 
 You can reach me on my mail: prakashadityaap@gmail.com
-
-I am also on: 
-- [Stack Overflow](https://stackoverflow.com/users/12034477/aditya-prakash)
-- [LinkedIn](https://www.linkedin.com/in/aditya-prakash-83835a188/)
