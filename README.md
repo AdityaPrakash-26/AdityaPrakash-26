@@ -1,6 +1,14 @@
-### Hello there 👋
+<h1 align='center'>
+  Hello there! 👋 I'm Aditya
+</h1>
 
-I am Aditya Prakash, and I am a student developer. I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore.
+<p align='center'>
+  A student developer from Indore, India.
+</p>
+
+
+# Personal Profile
+I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore. In the past, I've worked on several projects related to the fields of Web Development, Game Design and Programming, Android, and Machine Learning. 
 
 ## About Me:
 - A quick learner, with strong creative and analytical skills.
@@ -15,35 +23,35 @@ I am Aditya Prakash, and I am a student developer. I am currently pursuing the f
 - Game Programming
 - Full-stack Web Development
 
-I'm currently working on: Traffic Sign Detection and LeetCode Solutions
-
 Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++). 
 
-## Languages and Frameworks:
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-important?style=flat-square&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-success?style=flat-square&logo=Express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Node.js&logoColor=fffff)
-![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=flat-square&logo=Javascript&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+# Languages and Frameworks:
+![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-success?style=for-the-badge&logo=Express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
+![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-## Platforms and Tools:
+# Platforms and Tools:
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-181717?style=flat-square&logo=Unreal-Engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-181717?style=for-the-badge&logo=Unreal-Engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=Unity&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-## Projects:
+# Projects:
 - [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject)
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
 - [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)
 ##
+
+
 
 You can reach me on my mail: prakashadityaap@gmail.com
 
