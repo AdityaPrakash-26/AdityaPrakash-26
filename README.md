@@ -20,6 +20,9 @@
   <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" width="350">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" width="345">
+   <br>
+   <br>
+  <img src="https://komarev.com/ghpvc/?username=AdityaPrakash-26&color=green&label=+Developers+Inspired"/>
 </a>
 </p>
 
