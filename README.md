@@ -26,7 +26,7 @@
 </a>
 </p>
 
-I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore. In the past, I've worked on several projects related to the fields of Web Development, Game Design and Programming, Android, and Machine Learning. 
+I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore. In the past, I've worked on several projects involving Web Development, Game Design and Programming, Android, and Machine Learning. 
 
 ## About Me:
 - A quick learner, with strong creative and analytical skills.
