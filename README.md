@@ -76,5 +76,5 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![GPU](https://img.shields.io/badge/AMD-Radeon_R9_M395-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 
-
+##
 You can reach me on my mail: prakashadityaap@gmail.com
