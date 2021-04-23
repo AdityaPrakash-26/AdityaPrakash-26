@@ -12,6 +12,11 @@
   <a href="https://stackoverflow.com/users/12034477/aditya-prakash/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
+  <br>
+  <br>
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" width="350">
+</a>
 </p>
 
 I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore. In the past, I've worked on several projects related to the fields of Web Development, Game Design and Programming, Android, and Machine Learning. 
