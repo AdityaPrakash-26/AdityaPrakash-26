@@ -4,10 +4,16 @@
 
 <p align='center'>
   A student developer from Indore, India.
+  <br>
+  <br>
+  <a href="https://www.linkedin.com/in/aditya-prakash-83835a188/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/12034477/aditya-prakash/">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
 </p>
 
-
-# Personal Profile
 I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore. In the past, I've worked on several projects related to the fields of Web Development, Game Design and Programming, Android, and Machine Learning. 
 
 ## About Me:
@@ -25,7 +31,7 @@ I am currently pursuing the fourth semester of Computer Engineering from Institu
 
 Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++). 
 
-# Languages and Frameworks:
+## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=Java&logoColor=white)
@@ -35,7 +41,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-# Platforms and Tools:
+## Platforms and Tools:
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -45,11 +51,16 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Unity](https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=Unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-# Projects:
+## Projects:
 - [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject)
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
 - [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)
-##
+
+## Workspace:
+![iMac](https://img.shields.io/badge/Apple-iMac_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
+![Processor](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![GPU](https://img.shields.io/badge/AMD-Radeon_R9_M395-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 
 
