@@ -64,9 +64,9 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 ## Projects:
-- [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject)
-- [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer)
-- [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)
+- [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject) <img align='right' src="https://img.shields.io/badge/OpenCV-27338e?style&logo=OpenCV&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white">
+- [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer) <img align='right' src="https://img.shields.io/badge/Unreal-181717?style&logo=Unreal-Engine&logoColor=white"> <img align='right' src="https://img.shields.io/badge/C++-649ad2?style&logo=c%2B%2B&logoColor=white">
+- [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)<img align='right' src="https://img.shields.io/badge/Android_Studio-3DDC84?style&logo=Android-Studio&logoColor=ffffff"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
 
 ## Workspace:
 ![iMac](https://img.shields.io/badge/Apple-iMac_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
