@@ -41,7 +41,7 @@ I am currently pursuing the fourth semester of Computer Engineering from Institu
 - Game Programming
 - Full-stack Web Development
 
-Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1755) and Hackerrank (6 stars in C++). 
+Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). 
 
 ## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
