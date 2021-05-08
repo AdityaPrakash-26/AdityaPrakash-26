@@ -32,7 +32,7 @@ I am currently pursuing the fourth semester of Computer Engineering from Institu
 - A quick learner, with strong creative and analytical skills.
 - Equipped with a diverse and promising skill-set.
 - Good collaborator and outstanding team player, comfortable working in a fast-moving, culturally diverse, and globally distributed team environment.
-- Aspiring to solve real-world challenges using technology 
+- Aspiring to solve real-world challenges using technology.
 
 ## My skills include:
 - Data Structures and Algorithms
