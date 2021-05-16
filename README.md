@@ -36,6 +36,8 @@ I am currently pursuing the fourth semester of Computer Engineering from Institu
 
 ## My skills include:
 - Data Structures and Algorithms
+- Machine Learning
+- Data Science
 - Competitive Programming
 - Android Development
 - Game Programming
