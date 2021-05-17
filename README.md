@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   <a href="https://adityaprakash.tech">
-    <img src="https://img.shields.io/badge/Website-00BB00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge" />
   </a>
   <br>
   <br>
