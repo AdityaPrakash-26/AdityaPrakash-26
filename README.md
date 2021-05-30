@@ -74,7 +74,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 - [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)<img align='right' src="https://img.shields.io/badge/Android_Studio-3DDC84?style&logo=Android-Studio&logoColor=ffffff"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
 
 ## Workspace:
-![iMac](https://img.shields.io/badge/Apple-iMac_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
+![iMac](https://img.shields.io/badge/Apple-iMac_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Processor](https://img.shields.io/badge/Intel-Core_i5_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![GPU](https://img.shields.io/badge/AMD-Radeon_R9_M395-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
