@@ -55,7 +55,6 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Platforms and Tools:
 
