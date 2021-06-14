@@ -36,12 +36,11 @@ I am currently pursuing the fourth semester of Computer Engineering from Institu
 
 ## My skills include:
 - Data Structures and Algorithms
-- Machine Learning
-- Data Science
 - Competitive Programming
 - Android Development
 - Game Programming
 - Full-stack Web Development
+- Python Programming
 
 Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). 
 
