@@ -26,23 +26,22 @@
 </a>
 </p>
 
-I am currently pursuing the fourth semester of Computer Engineering from Institute of Engineering and Technology, Indore. During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development. 
+I am currently pursuing the fifth semester of Computer Engineering from Institute of Engineering and Technology, Indore. During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
 
 ## About Me:
-- A quick learner, with strong creative and analytical skills.
-- Equipped with a diverse and promising skill-set.
-- Good collaborator and outstanding team player, comfortable working in a fast-moving, culturally diverse, and globally distributed team environment.
-- Aspiring to solve real-world challenges using technology.
+I'm a student developer, currently in my 3rd year of Computer Engineering. I put my best into every line of code I write, striving to solve problems through ingenuity and diligence. I'm naturally curious, confidently perseverant and constantly working to improve my skill-set one project at a time. 
+
+I don't define myself by the work I have done, but rather that which I want to do. Challenges drive me, and innovations inspire me. I am an avid programmer, who likes to code things from scratch and enjoy bringing ideas to life. I value diversity, efficient collaboration, and thoughtful interactions. As a lifelong learner, I believe constantly improving my skills and exploring new ideas is indispensable to my craft.
 
 ## My skills include:
 - Data Structures and Algorithms
-- Competitive Programming
+- Problem Solving
 - Android Development
 - Game Programming
 - Full-stack Web Development
 - Python Programming
 
-Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). 
+Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). In my second semester, I achieved 34th rank in an intra-college programming competition which was attended by students of all disciplines and years.
 
 ## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
