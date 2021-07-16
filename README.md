@@ -45,7 +45,7 @@ I’m passionate, expressive, and multi-talented with a natural affinity to coll
 
 Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). In my second semester, I achieved 34th rank in an intra-college programming competition which was attended by students of all disciplines and years.
 
-## Languages and Frameworks:
+<!-- ## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-important?style=for-the-badge&logo=Java&logoColor=white)
@@ -54,7 +54,35 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![NodeJS](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
 ![JavaScript](https://img.shields.io/badge/Javascript-ffd700?style=for-the-badge&logo=Javascript&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) -->
+
+## Languages:
+<p align="center">
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="64" height="64"/> 
+  </a> 
+  <a href="https://en.cppreference.com/w/cpp" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="64" height="64"/> 
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="64" height="64"/> 
+  </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="64" height="64"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="64" height="64"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css5" width="64" height="64"/> 
+  </a>
+  
+</p>
+
+<!-- ## Frameworks -->
 
 ## Platforms and Tools:
 
