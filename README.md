@@ -100,6 +100,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![FireBase](https://img.shields.io/badge/firestore-000000.svg?style=for-the-badge&logo=firebase)
 
 
 ## Platforms and Tools:
