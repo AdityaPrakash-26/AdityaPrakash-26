@@ -112,10 +112,11 @@ Additionally, I am also an active competitive programmer, who regularly particip
 
 
 ## Technical Projects:
-- [Sorting Visualizer in React](https://github.com/AdityaPrakash-26/Sorting-Visualizer) <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white">
+- [Sorting Visualizer in React](https://github.com/AdityaPrakash-26/Sorting-Visualizer) <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white">
 - [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject) <img align='right' src="https://img.shields.io/badge/Pandas-150458?style&logo=Pandas&logoColor=white"> <img align='right' src="https://img.shields.io/badge/OpenCV-27338e?style&logo=OpenCV&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white">
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer) <img align='right' src="https://img.shields.io/badge/Unreal-181717?style&logo=Unreal-Engine&logoColor=white"> <img align='right' src="https://img.shields.io/badge/C++-649ad2?style&logo=c%2B%2B&logoColor=white">
 - [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)<img align='right' src="https://img.shields.io/badge/Android_Studio-3DDC84?style&logo=Android-Studio&logoColor=ffffff"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
+- [COVID-19 Tracker](https://github.com/AdityaPrakash-26/covid-19-tracker)<img align='right' src="https://img.shields.io/badge/Beautiful_Soup_4-3776AB"><img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=python&logoColor=white">
 <!-- 
 ## Workspace:
 ![iMac](https://img.shields.io/badge/Apple-iMac_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
