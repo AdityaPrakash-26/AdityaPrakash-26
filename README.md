@@ -92,6 +92,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -102,7 +103,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![FireBase](https://img.shields.io/badge/firestore-000000.svg?style=for-the-badge&logo=firebase)
+![FireStore](https://img.shields.io/badge/firestore-000000.svg?style=for-the-badge&logo=firebase)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android-Studio&logoColor=ffffff)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -114,9 +115,14 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ## Technical Projects:
 - [Sorting Visualizer in React](https://github.com/AdityaPrakash-26/Sorting-Visualizer) <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white">
 - [Color Detection in Python](https://github.com/AdityaPrakash-26/ColorDetectionProject) <img align='right' src="https://img.shields.io/badge/Pandas-150458?style&logo=Pandas&logoColor=white"> <img align='right' src="https://img.shields.io/badge/OpenCV-27338e?style&logo=OpenCV&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white">
+- [Lane Line Detection](https://github.com/AdityaPrakash-26/Lane-Detection)<img align='right' src="https://img.shields.io/badge/Numpy-777BB4?style&logo=numpy&logoColor=white"><img align='right' src="https://img.shields.io/badge/OpenCV-27338e?style&logo=OpenCV&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white">
 - [Sounds wave visualizer in Unreal Engine](https://github.com/AdityaPrakash-26/SoundWaveVisualizer) <img align='right' src="https://img.shields.io/badge/Unreal-181717?style&logo=Unreal-Engine&logoColor=white"> <img align='right' src="https://img.shields.io/badge/C++-649ad2?style&logo=c%2B%2B&logoColor=white">
 - [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)<img align='right' src="https://img.shields.io/badge/Android_Studio-3DDC84?style&logo=Android-Studio&logoColor=ffffff"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
 - [COVID-19 Tracker](https://github.com/AdityaPrakash-26/covid-19-tracker)<img align='right' src="https://img.shields.io/badge/Beautiful_Soup_4-E31231"><img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=python&logoColor=white">
+
+## Freelance Projects:
+- [The i-SCHOOL](https://theischool.com/) <img align='right' src="https://img.shields.io/badge/Node.js-ffffff?style&logo=Node.js&logoColor=fffff"> <img align='right' src="https://img.shields.io/badge/express.js-%23404d59.svg?style&logo=express&logoColor=%2361DAFB"> <img align='right' src="https://img.shields.io/badge/Bootstrap-563D7C?style&logo=bootstrap&logoColor=white"> <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> 
+- School Management System <img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Android-3DDC84?style&logo=android&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Firebase-000000.svg?style&logo=firebase"> <img align='right' src="https://img.shields.io/badge/Firestore-000000.svg?style&logo=firebase"> <img align='right' src="https://img.shields.io/badge/Figma-F24E1E?style&logo=figma&logoColor=white">
 <!-- 
 ## Workspace:
 ![iMac](https://img.shields.io/badge/Apple-iMac_2015-999999?style=for-the-badge&logo=apple&logoColor=white)
