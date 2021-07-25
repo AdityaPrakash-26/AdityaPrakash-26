@@ -33,7 +33,7 @@ I'm a student developer, currently in my 3rd year of Computer Engineering. I put
 
 I don't define myself by the work I have done, but rather that which I want to do. Challenges drive me, and innovations inspire me. I am an avid programmer, who likes to code things from scratch and enjoy bringing ideas to life. I value diversity, efficient collaboration, and thoughtful interactions. As a lifelong learner, I believe constantly improving my skills and exploring new ideas is indispensable to my craft.
 
-I’m passionate, expressive, and multi-talented with a natural affinity to collaborate, help, and inspire. I’m never satisfied to just come up with ideas. Instead I have an almost impulsive urge to bring them to life. My strong work ethics drive me to go the extra mile to accomplish goals, whether on the keyboard or beyond.
+I’m passionate, expressive, and multi-talented with a natural affinity to collaborate, help, and inspire. I’m never satisfied to just come up with ideas, instead I have an almost impulsive urge to bring them to life. My strong work ethics drive me to go the extra mile to accomplish goals, whether on the keyboard or beyond.
 
 ## My skills include:
 - Data Structures and Algorithms
