@@ -18,10 +18,10 @@
   <br>
   <br>
   <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" height="175">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" height = "175">
    <br>
-   <br>
+   <br> -->
   <img src="https://komarev.com/ghpvc/?username=AdityaPrakash-26&color=green&label=+Developers+Inspired"/>
 </a>
 </p>
