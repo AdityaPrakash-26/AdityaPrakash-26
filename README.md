@@ -17,13 +17,14 @@
   </a>
   <br>
   <br>
-  <a href="#">
+  <a href="https://adityaprakash.tech/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/55011564/126927559-9439eb02-0381-4b85-b851-0d21f63009b2.png">
+  </a>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" height="175">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" height = "175">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" height = "175"> -->
    <br>
-   <br> -->
+   <br>
   <img src="https://komarev.com/ghpvc/?username=AdityaPrakash-26&color=green&label=+Developers+Inspired"/>
-</a>
 </p>
 
 I am currently pursuing the fifth semester of Computer Engineering from Institute of Engineering and Technology, Indore. During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
