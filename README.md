@@ -27,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaPrakash-26&color=green&label=+Developers+Inspired"/>
 </p>
 
-I am currently pursuing the sixth semester of Computer Engineering from Institute of Engineering and Technology, Indore. I am also working as a Software Development Intern at <a href = "https://workat.tech" target ="_blank">workat.tech</a>
+I am currently pursuing the sixth semester of Computer Engineering from Institute of Engineering and Technology, Indore. I am also working as a Software Development Intern at <a href = "https://workat.tech" target ="_blank">workat.tech</a>.
 During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
 
 ## About Me:
