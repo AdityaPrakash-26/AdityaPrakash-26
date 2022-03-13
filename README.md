@@ -27,7 +27,8 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaPrakash-26&color=green&label=+Developers+Inspired"/>
 </p>
 
-I am currently pursuing the fifth semester of Computer Engineering from Institute of Engineering and Technology, Indore. During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
+I am currently pursuing the sixth semester of Computer Engineering from Institute of Engineering and Technology, Indore. 
+During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
 
 ## About Me:
 I'm a student developer, currently in my 3rd year of Computer Engineering. I put my best into every line of code I write, striving to solve problems through ingenuity and diligence. I'm naturally curious, confidently perseverant and constantly working to improve my skill-set one project at a time. 
