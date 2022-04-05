@@ -37,7 +37,7 @@ I don't define myself by the work I have done, but rather that which I want to d
 
 I’m passionate, expressive, and multi-talented with a natural affinity to collaborate, help, and inspire. I’m never satisfied to just come up with ideas, instead I have an almost impulsive urge to bring them to life. My strong work ethics drive me to go the extra mile to accomplish goals, whether on the keyboard or beyond.
 
-## My skills include:
+<!-- ## My skills include:
 - Data Structures and Algorithms
 - Problem Solving
 - Android Development
@@ -45,7 +45,7 @@ I’m passionate, expressive, and multi-talented with a natural affinity to coll
 - Full-stack Web Development
 - Python Programming
 
-Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). In my second semester, I achieved 34th rank in an intra-college programming competition which was attended by students of all disciplines and years.
+Additionally, I am also an active competitive programmer, who regularly participates in programming competitions on CodeChef(Rated: 1818) and Hackerrank (6 stars in C++). In my second semester, I achieved 34th rank in an intra-college programming competition which was attended by students of all disciplines and years. -->
 
 <!-- ## Languages and Frameworks:
 ![C](https://img.shields.io/badge/C-27338e?style=for-the-badge&logo=c&logoColor=white)
