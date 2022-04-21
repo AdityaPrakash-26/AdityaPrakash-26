@@ -12,12 +12,12 @@
   <a href="https://stackoverflow.com/users/12034477/aditya-prakash/">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://adityaprakash.tech">
+  <a href="https://aditya-prakash.me">
     <img src="https://img.shields.io/badge/Portfolio-00BB00?style=for-the-badge"/>
   </a>
   <br>
   <br>
-  <a href="https://adityaprakash.tech/" target="_blank">
+  <a href="https://aditya-prakash.me/" target="_blank">
     <img src="https://user-images.githubusercontent.com/55011564/126927559-9439eb02-0381-4b85-b851-0d21f63009b2.png">
   </a>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" height="175">
