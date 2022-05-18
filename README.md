@@ -1,8 +1,11 @@
-<h1 align='center'>
+<!-- <h1 align='center'>
   Hello there! 👋 I'm Aditya
-</h1>
+</h1> -->
 
 <p align='center'>
+  <img alt="Hello! I am Aditya" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=Hello%20there!%20%F0%9F%91%8B%20I%20am%20Aditya&fontSize=48&fontAlignY=35"
+       style="width: 100%">
+  <br>
   A student developer from Indore, India.
   <br>
   <br>
