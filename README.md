@@ -3,7 +3,7 @@
 </h1> -->
 
 <p align='center'>
-  <img alt="Hello! I am Aditya" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=Hello%20there!%20%F0%9F%91%8B%20I%20am%20Aditya&fontSize=48&fontAlignY=35&desc=I%20am%20a%20full%20stack%20developer&descAlignY=51&descAlign=62"
+  <img alt="Hello! I am Aditya" src="https://capsule-render.vercel.app/api?section=header&type=waving&height=200&color=gradient&text=Hello%20there!%20%F0%9F%91%8B%20I%20am%20Aditya&fontSize=48&fontAlignY=35&desc=I%20am%20a%20full%20stack%20developer&descAlignY=55&descAlign=62"
        style="width: 100%">
   <a href="https://www.linkedin.com/in/aditya-prakash-83835a188/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
