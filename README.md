@@ -17,7 +17,7 @@
   <br>
   <br>
   <a href="https://aditya-prakash.me/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/55011564/126927559-9439eb02-0381-4b85-b851-0d21f63009b2.png">
+    <img width="2295" alt="Screenshot 2023-01-10 at 11 28 22 AM" src="https://user-images.githubusercontent.com/55011564/211473100-bc30a34c-37ff-4129-bc7a-1c7c7e911a61.png">
   </a>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=adityaprakash-26&show_icons=true&count_private=true&theme=dark" height="175">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprakash-26&layout=compact&theme=dark&hide=css,html" height = "175"> -->
