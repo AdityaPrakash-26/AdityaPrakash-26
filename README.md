@@ -30,7 +30,7 @@ I am currently pursuing the eighth semester of Computer Engineering from Institu
 During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
 
 ## About Me:
-I'm a student developer, currently in my 7th semester of Computer Engineering. I put my best into every line of code I write, striving to solve problems through ingenuity and diligence. I'm naturally curious, confidently perseverant and constantly working to improve my skill-set one project at a time. 
+I'm a student developer, currently in my 8th semester of Computer Engineering. I put my best into every line of code I write, striving to solve problems through ingenuity and diligence. I'm naturally curious, confidently perseverant and constantly working to improve my skill-set one project at a time. 
 
 I don't define myself by the work I have done, but rather that which I want to do. Challenges drive me, and innovations inspire me. I am an avid programmer, who likes to code things from scratch and enjoy bringing ideas to life. I value diversity, efficient collaboration, and thoughtful interactions. As a lifelong learner, I believe constantly improving my skills and exploring new ideas is indispensable to my craft.
 
