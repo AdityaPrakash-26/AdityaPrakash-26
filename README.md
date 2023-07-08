@@ -26,13 +26,10 @@
   <img src="https://komarev.com/ghpvc/?username=AdityaPrakash-26&color=green&label=+Developers+Inspired"/>
 </p>
 
-I am currently pursuing the eighth semester of Computer Engineering from Institute of Engineering and Technology, Devi Ahilya University. I am also working as a Software Development Intern at <a href = "https://symphony.rakuten.com/" target ="_blank">Rakuten Symphony</a>.
-During my journey, I've worked on several projects involving Software Development, Algorithms & Data Structures, Game Design & Programming, Android, and Full-Stack Web Development.
-
 ## About Me:
-I'm a student developer, currently in my 8th semester of Computer Engineering. I put my best into every line of code I write, striving to solve problems through ingenuity and diligence. I'm naturally curious, confidently perseverant and constantly working to improve my skill-set one project at a time. 
+I am Master of Science in Computer Science student at Emory University. With over 2 years of experience across various internships, I have developed a strong foundation in software development and computer systems. My passion lies in tackling complex problems and creating innovative solutions through programming.
 
-I don't define myself by the work I have done, but rather that which I want to do. Challenges drive me, and innovations inspire me. I am an avid programmer, who likes to code things from scratch and enjoy bringing ideas to life. I value diversity, efficient collaboration, and thoughtful interactions. As a lifelong learner, I believe constantly improving my skills and exploring new ideas is indispensable to my craft.
+During my internships, I have had the opportunity to work on diverse projects, ranging from web development to machine learning. These experiences have sharpened my skills in languages such as Python, Java, and JavaScript, as well as frameworks and tools like Django, Spring, and React.
 
 I’m passionate, expressive, and multi-talented with a natural affinity to collaborate, help, and inspire. I’m never satisfied to just come up with ideas, instead I have an almost impulsive urge to bring them to life. My strong work ethics drive me to go the extra mile to accomplish goals, whether on the keyboard or beyond.
 
