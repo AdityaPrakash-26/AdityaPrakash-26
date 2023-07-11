@@ -33,6 +33,19 @@ During my internships, I have had the opportunity to work on diverse projects, r
 
 I’m passionate, expressive, and multi-talented with a natural affinity to collaborate, help, and inspire. I’m never satisfied to just come up with ideas, instead I have an almost impulsive urge to bring them to life. My strong work ethics drive me to go the extra mile to accomplish goals, whether on the keyboard or beyond.
 
+## Past Experience:
+Notable firms I have worked with:
+<p align = "center">
+  <a href="https://watto.ai" target="_blank">
+    <img src="https://logos-download.com/wp-content/uploads/2016/11/Y_Combinator_logo_text_wordmark.png" width="400"/>
+  </a>
+  <a href="https://www.kamaleswaran.com/" target="_blank">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-png-transparent.png" width="400"/>
+  </a>
+  <a href="https://symphony.rakuten.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/2560px-Rakuten_Global_Brand_Logo.svg.png" width="400"/>
+  </a>
+</p>
 <!-- ## My skills include:
 - Data Structures and Algorithms
 - Problem Solving
