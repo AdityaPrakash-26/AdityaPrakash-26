@@ -27,7 +27,7 @@
 </p>
 
 ## About Me:
-I am Master of Science in Computer Science student at Emory University. With over 2 years of experience across various internships, I have developed a strong foundation in software development and computer systems. My passion lies in tackling complex problems and creating innovative solutions through programming.
+I am a Master of Science in Computer Science student at Emory University. With over 2 years of experience across various internships, I have developed a strong foundation in software development and computer systems. My passion lies in tackling complex problems and creating innovative solutions through programming.
 
 During my internships, I have had the opportunity to work on diverse projects, ranging from web development to machine learning. These experiences have sharpened my skills in languages such as Python, Java, and JavaScript, as well as frameworks and tools like Django, Spring, and React.
 
