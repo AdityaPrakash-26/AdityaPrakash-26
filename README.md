@@ -27,11 +27,13 @@
 </p>
 
 ## About Me:
-I am a Master of Science in Computer Science student at Emory University. With over 2 years of experience across various internships, I have developed a strong foundation in software development and computer systems. My passion lies in tackling complex problems and creating innovative solutions through programming.
+I am a Computer Science Master's student at Emory University with a strong foundation in software development and computer systems. Through diverse internships spanning 2 years, I've honed my skills in Python, Java, and JavaScript, along with frameworks like Next, React, and Node.
 
-During my internships, I have had the opportunity to work on diverse projects, ranging from web development to machine learning. These experiences have sharpened my skills in languages such as Python, Java, and JavaScript, as well as frameworks and tools like Django, Spring, and React.
+I thrive on tackling complex challenges and translating ideas into innovative solutions. In one memorable instance, I played a key role in developing algorithms that reduced execution times of critical section pipelines by over 80%. My commitment to excellence drives me to go beyond the ordinary and achieve exceptional results.
 
-I’m passionate, expressive, and multi-talented with a natural affinity to collaborate, help, and inspire. I’m never satisfied to just come up with ideas, instead I have an almost impulsive urge to bring them to life. My strong work ethics drive me to go the extra mile to accomplish goals, whether on the keyboard or beyond.
+Collaboration is at the heart of my approach. I've had the privilege of working in cross-functional teams where my natural affinity for inspiring and assisting others led to successful project outcomes. Whether it's coding or contributing ideas, I'm driven by a genuine passion to bring concepts to life.
+
+As I embark on the next phase of my journey, I'm eager to connect with fellow professionals, share insights, and explore potential synergies. If you're as enthusiastic about innovation and growth as I am, let's connect and explore the possibilities.
 
 ## Past Experience:
 Notable firms I have worked with:
