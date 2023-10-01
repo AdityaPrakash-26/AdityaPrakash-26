@@ -41,7 +41,7 @@ Notable firms I have worked with:
   <a href="https://watto.ai" target="_blank">
     <img src="https://logos-download.com/wp-content/uploads/2016/11/Y_Combinator_logo_text_wordmark.png" width="400"/>
   </a>
-  <a href="https://www.kamaleswaran.com/" target="_blank">
+  <a href="https://www.emory.edu/" target="_blank">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-png-transparent.png" width="400"/>
   </a>
   <a href="https://symphony.rakuten.com/" target="_blank">
