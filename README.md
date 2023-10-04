@@ -44,7 +44,7 @@ Notable firms I have worked with:
   <a href="https://www.emory.edu/" target="_blank">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/emory-university-logo-png-transparent.png" width="400"/>
   </a>
-  <a href="https://symphony.rakuten.com/" target="_blank">
+  <a href="https://rakuten.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/2560px-Rakuten_Global_Brand_Logo.svg.png" width="400"/>
   </a>
 </p>
