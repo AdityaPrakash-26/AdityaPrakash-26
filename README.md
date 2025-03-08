@@ -128,7 +128,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 ![Unity](https://img.shields.io/badge/Unity_3D-202020?style=for-the-badge&logo=Unity&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
-
+<!--
 ## Technical Projects:
 - [Sorting Visualizer](https://github.com/AdityaPrakash-26/Sorting-Visualizer) <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white">
 - [VSCode-WorkAt](https://github.com/AdityaPrakash-26/VSCode-WorkAt) <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Axios-39a173?style&logo=Axios&logoColor=black"> <img align='right' src="https://img.shields.io/badge/Visual_Studio_Code_API-0078D4?style&logo=visual%20studio%20code&logoColor=white"> 
@@ -138,6 +138,7 @@ Additionally, I am also an active competitive programmer, who regularly particip
 - [Speech Recognition in Android Maps](https://github.com/AdityaPrakash-26/Speech-Recognition-Project)<img align='right' src="https://img.shields.io/badge/Android_Studio-3DDC84?style&logo=Android-Studio&logoColor=ffffff"><img align='right' src="https://img.shields.io/badge/-Java-important?style&logo=Java&logoColor=white">
 - [COVID-19 Tracker](https://github.com/AdityaPrakash-26/covid-19-tracker)<img align='right' src="https://img.shields.io/badge/Beautiful_Soup_4-E31231"><img align='right' src="https://img.shields.io/badge/Python-3776AB?style&logo=python&logoColor=white">
 - [Library Management System](https://github.com/AdityaPrakash-26/Library-Management-System) <img align='right' src="https://img.shields.io/badge/Node.js-ffffff?style&logo=Node.js&logoColor=fffff"> <img align='right' src="https://img.shields.io/badge/express.js-%23404d59.svg?style&logo=express&logoColor=%2361DAFB"> <img align='right' src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> 
+-->
 
 <!-- ## Projects:
 - [The i-SCHOOL](https://theischool.com/) <img align='right' src="https://img.shields.io/badge/Node.js-ffffff?style&logo=Node.js&logoColor=fffff"> <img align='right' src="https://img.shields.io/badge/express.js-%23404d59.svg?style&logo=express&logoColor=%2361DAFB"> <img align='right' src="https://img.shields.io/badge/Bootstrap-563D7C?style&logo=bootstrap&logoColor=white"> <img align='right' src="https://img.shields.io/badge/HTML5-E34F26?style&logo=html5&logoColor=white"> <img align='right' src="https://img.shields.io/badge/CSS3-1572B6?style&logo=css3&logoColor=white"> <img align='right' src="https://img.shields.io/badge/Javascript-ffd700?style&logo=Javascript&logoColor=white"> 
